@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Rohan Kumar
 
-<!--
-**rohank15/rohank15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer
 
-Here are some ideas to get you started:
+- 💻 I build backend applications using Spring Boot
+- 🌱 Currently learning System Design and Spring AI
+- ⚡ Interested in Backend Engineering and AI
+- 🚀 Love building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
+- PostgreSQL
+- Git & GitHub
